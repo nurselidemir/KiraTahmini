@@ -1,2 +1,1 @@
-# KiraTahmini
 # Kira Tahmini Uygulaması
